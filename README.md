@@ -1,15 +1,12 @@
 ## What's this?
----
 CloudFormation stack generated using Python
 
 ## Tools used
----
 - Python
 - [trophosphere](https://pypi.org/project/troposphere/)
 - YAML
 
 ## How to use?
----
 Install troposhere.
 ```
 $ pip install troposphere
